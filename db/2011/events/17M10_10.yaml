@@ -5,9 +5,9 @@ presenters:
     affiliation: 
       en: "MacRuby core contributors *and* procrastinators."
     bio: 
-      en: "#TODO"
+      en: "Eloy & Vincent both work at agencies involved in application development with Ruby/Objective-C. Vincent lives in the land of the rising sun and Eloy in the land of the tulips and ‘stroopwafels’."
 title: 
-  en: A Hayabusa-speed talk about living under the MacRuby rainbow
+  en: "A Hayabusa-speed talk about living under the MacRuby rainbow."
 abstract: 
-  en: "#TODO"
+  en: "MacRuby is not just awesome, it’s usable too! In this fast paced talk we’ll take you on a ‘Willy Wonka’ kind of adventure with practical MacRuby usage examples, kittens, and shiny colors."
 language: English
